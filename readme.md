@@ -15,5 +15,5 @@ The Weather App is a Python project that allows users to retrieve and visualize 
 ## Prerequisites
 Before running the Weather App, make sure you have the following prerequisites installed:
 
-Python (version 3.10)
+Python (version 3.10 or above)
 Required Python packages (see requirements.txt file)
