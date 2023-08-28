@@ -11,8 +11,6 @@ option = st.selectbox("Select data to view: ",
                       ("Temperature", "Sky"))
 st.subheader(f"{option} for the next {days} days in {place}")
 
-# catch the name city error for black
-
 if place:
     try:
         # Get temperature/ sky data
