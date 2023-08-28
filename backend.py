@@ -13,9 +13,5 @@ def get_data(place, forecast_days):
     return filtered_data
 
 
-# Use debugger to look into data
-# Important to understand the data
-# Look into list comprehensions
-
 if __name__ == "__main__":
     print(get_data(place='London', forecast_days=5))
