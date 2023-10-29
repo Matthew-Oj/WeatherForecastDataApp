@@ -1,4 +1,4 @@
-# Weather Forecast App README
+# Weather Forecast Data App README
 
 ## Table of Contents
 
@@ -24,9 +24,17 @@ The Weather App is a Python project that allows users to retrieve and visualize 
 **Images**: Users can choose to receive visual representations of weather data, such as heatmaps showcasing temperature variations.
 
 ## Visual 
+Screeshots below 
+![Alt text](Capture1.PNG)
+![Alt text](Capture2.PNG)
 
 ## Prerequisites
 Before running the Weather App, make sure you have the following prerequisites installed:
 
 Python (version 3.10 or above)
 Required Python packages (see requirements.txt file)
+
+Run install: 
+```bash
+pip install streamlit
+```
