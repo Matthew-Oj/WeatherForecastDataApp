@@ -7,6 +7,7 @@
   - [Features](#features)
   - [Visuals](#visuals)
   - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
  
 
 ## Introduction
@@ -34,6 +35,7 @@ Before running the Weather App, make sure you have the following prerequisites i
 Python (version 3.10 or above)
 Required Python packages (see requirements.txt file)
 
+## Installation 
 Run install: 
 ```bash
 pip install streamlit
