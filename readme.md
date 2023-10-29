@@ -1,4 +1,15 @@
-# Weather forecast App README
+# Weather Forecast App README
+
+## Table of Contents
+
+- [Weather forecast App](#weather-forecast-app)
+  - [Introduction](#introduction)
+  - [Features](#features)
+  - [Visuals](#visuals)
+  - [Prerequisites](#prerequisites)
+ 
+
+## Introduction
 The Weather App is a Python project that allows users to retrieve and visualize weather forecast data for a specific location. Users can input the desired place, the number of forecast days, and select the type of data visualization they prefer. The app then accesses a weather API to fetch the necessary data and presents it in the form of graphs or images, providing users with an intuitive and informative way to understand the weather trends.
 
 ## Features
@@ -11,6 +22,8 @@ The Weather App is a Python project that allows users to retrieve and visualize 
 **Graphs**: The app can generate line graphs or bar charts to display temperature, precipitation, or other weather-related metrics over the selected forecast days.
 
 **Images**: Users can choose to receive visual representations of weather data, such as heatmaps showcasing temperature variations.
+
+## Visual 
 
 ## Prerequisites
 Before running the Weather App, make sure you have the following prerequisites installed:
